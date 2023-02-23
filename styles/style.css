@@ -1,0 +1,157 @@
+body{
+background: rgb(130, 235, 255);
+    background: linear-gradient(90deg, rgba(130, 235, 255, 0.9220938375350141) 0%, rgba(153, 240, 234, 0.9389005602240896) 11%, rgba(251, 154, 229, 0.9360994397759104) 74%, rgba(250, 162, 195, 0.8856792717086834) 98%);
+height: auto;
+width: auto;
+
+}
+.headphones{
+    width: 400px;
+    height: 500px;
+    padding-left: 280px;
+   
+  
+}
+.lite-life{
+    padding-left: 150px;
+    padding-top: 80px;
+    text-shadow: 4px 4px 16px rgba(66, 68, 90, 1);
+}
+.product-name{
+    padding-top: 100px;
+    margin-left: 100px;
+font-family: Georgia, serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-weight: bold;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
+.headers{
+    list-style: none;
+   margin-left: 250px;
+   display: flex;
+   flex-direction: row;
+}
+
+.header-buttons{
+    display: flex;
+    padding-top: 20px;
+    margin-left: 10px;
+    
+}
+
+.buy{
+    background-color: aliceblue;
+   border: 0;
+   border-radius: 15px;
+  width: 100px;
+  height: 50px;
+padding-left: 3px;
+margin-left: 73px;
+}
+
+.buy:hover {
+    background-color: rgb(63, 233, 233); 
+    cursor: pointer;
+}
+
+
+.product-description{
+    padding-top: 200px;
+}
+.technology-text{
+    width: 500px;
+    padding-left: 77px;
+}
+
+.technology-name{
+    font-size: 36px;
+    padding-left: 77px;
+}
+
+.main-div{
+    display: flex;
+}
+.phone{
+    padding-left: 350px;
+    width: 400px;
+    height: 300px;
+}
+
+.shop-categoty-text{
+    text-align: center;
+font-size: 36px;
+padding-top: 150px ;
+}
+
+.advanteges{
+    padding-top: 20px;
+    margin-left: 200px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+   
+}
+.product-advantage{
+    margin-left: 40px;
+    width: 300px;
+    height: 400px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.photo-adv{
+    padding-top: 25px;
+  padding-left: 25px;
+    width: 250px;
+    height: 220px;
+}
+.product-offer{
+text-align: center;
+}
+
+.product-text{
+   
+    text-align: center;
+}
+
+.adv-button{
+    background-color: aliceblue;
+        border: 0;
+        border-radius: 15px;
+        width: 100px;
+        height: 50px;
+        margin-top: 51px;
+            margin-left: 710px;
+}
+.adv-button:hover{
+    
+    background-color: rgb(180, 207, 230) ;
+  cursor: pointer;
+}
+
+.Expert-Support{
+    font-size: 36px;
+    padding-left: 70px;
+}
+
+.support-descr{
+padding-left: 70px;
+}
+
+.recom{
+    padding-left: 70px;
+}
+
+.phone-charging{
+    width: 500px;
+    height: 370px;
+    padding-left: 400px;
+}
+.support-offer{
+    padding-top: 100px;
+    display: flex;
+}
+
